@@ -1,2 +1,2 @@
 # dexcom_capstone
-anomaly detection
+anomaly detection on GCP data
